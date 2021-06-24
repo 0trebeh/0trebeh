@@ -5,23 +5,23 @@
 ## Lenguajes y herramientas: 🚀
 * Soy un apacionado por la programacion. Por lo cual manejo muchas herramientas y lenguajes, pero las principales son:
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
-TypeScript
-Node.js
-React.js
-React Native
-python
+- TypeScript
+- Node.js
+- React.js
+- React Native
+- python
 
 * Tambien soy un apacionado con el orden y los planes. Aunque estos siempre cambian es mejor empezar con una visión clara, Ya que esto siempre agiliza el proceso.
 
-Visual studio
-![image](https://user-images.githubusercontent.com/60523990/123186595-7cc57480-d466-11eb-9e70-7948083f1535.png)
-Bitbucket 
-Trello
-Jira
+- Visual studio
+- Github
+- Bitbucket 
+- Trello
+- Jira
 
 <!--
 **0trebeh/0trebeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
