@@ -2,7 +2,7 @@
 
 ## Soy Ingeniero de computación, y un prodigio en la programación 🧐
 
-## Lenguajes y herramientas:
+## Lenguajes y herramientas: 🚀
 * Soy un apacionado por la programacion. Por lo cual manejo muchas herramientas y lenguajes, pero las principales son:
 
 HTML
@@ -18,7 +18,7 @@ python
 * Tambien soy un apacionado con el orden y los planes. Aunque estos siempre cambian es mejor empezar con una visión clara, Ya que esto siempre agiliza el proceso.
 
 Visual studio
-Github
+![image](https://user-images.githubusercontent.com/60523990/123186595-7cc57480-d466-11eb-9e70-7948083f1535.png)
 Bitbucket 
 Trello
 Jira
