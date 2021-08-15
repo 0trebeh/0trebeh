@@ -3,7 +3,7 @@
 ### Soy Ingeniero de computación, y un prodigio en la programación 🧐
 
 ## Lenguajes y herramientas: 🚀
-* Soy un apasionado por la programación. Por lo cual manejo muchas herramientas y lenguajes, pero las principales son:
+* Soy un apasionado por la programación. Por lo cual manejo muchas herramientas, lenguajes y frameworks, pero las principales son:
 
 > HTML,
 > CSS,
