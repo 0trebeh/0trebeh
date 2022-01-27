@@ -15,6 +15,12 @@
 > React Native,
 > Python.
 
+> PostgreSQL
+> MongoDB
+
+> Firebase
+> Heroku
+
  * También soy un apasionado con el orden y los planes. Aunque estos siempre cambian es mejor empezar con una visión clara, Ya que esto siempre agiliza el proceso.
 
 > Visual studio,
