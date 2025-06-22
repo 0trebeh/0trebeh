@@ -1,9 +1,7 @@
   <h1 align="center"><b>Hi , I'm Heberto Urribarri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Software development </>;Freelance 👨🏻‍💻;Software Engineer </>;Automation Engineer ▶️; Database design 💾; Web development 🌐">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=600&pause=100&size=30&color=cyan&center=true&vCenter=true&width=600&lines=Software+development+%3C%2F%3E;Freelance+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Engineer+%3C%2F%3E;Automation+Engineer+%E2%96%B6%EF%B8%8F;Database+design+%F0%9F%92%BE;Web+development+%F0%9F%8C%90" alt="Typing SVG">
 </p>
 <br>
 <h2 id="-about-me"><picture style="display: none;"><img alt="Night Coding" src=""></picture> <strong>About me</strong></h2>
