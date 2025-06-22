@@ -1,5 +1,5 @@
 <p align="center">
-  <big><big><big><strong> Hi , I'm Heberto Urribarri </strong></big></big></big><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <strong> Hi , I'm Heberto Urribarri </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
 <!--  -->
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 <br>
 <p id="-about-me">
-  <big><big><strong>About me</strong></big></big>
+  <strong>About me</strong>
 </p>
 <p style="display: none;"><picture><img alt="Night Coding" src="" align="right"></picture></p>
 <p>
@@ -18,7 +18,7 @@
 <br>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
 <p id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25">
-<big><big><strong> Skills</strong></big></big>
+<strong> Skills</strong>
 </p>
 <br>
 <p align="center">
@@ -94,7 +94,7 @@
 <br>
 
 <p id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <big><big><strong> Github Stats </strong></big></big>
+  <strong> Github Stats </strong>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0trebeh&layout=compact&langs_count=6&theme=dark" alt="Lenguajes más usados de Heberto" />
@@ -106,7 +106,7 @@
 <hr>
 <br>
 
-<p id="-lets-connect"> <big><big><strong> Let’s Connect..!</strong></big></big></p>
+<p id="-lets-connect"><strong> Let’s Connect..!</strong></p>
 <br>
 <ul>
 <li>
