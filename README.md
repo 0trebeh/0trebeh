@@ -1,12 +1,14 @@
 <p align="center">
-  **Hi , I'm Heberto Urribarri** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <big><big><big><strong> Hi , I'm Heberto Urribarri </strong></big></big></big><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
 <!--  -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=600&pause=100&size=30&color=cyan&center=true&vCenter=true&width=600&lines=Software+development+%3C%2F%3E;Freelance+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Engineer+%3C%2F%3E;Automation+Engineer+%E2%96%B6%EF%B8%8F;Database+design+%F0%9F%92%BE;Web+development+%F0%9F%8C%90" alt="Typing SVG">
 </p>
 <br>
-<p id="-about-me"><picture style="display: none;"><img alt="Night Coding" src=""></picture> <strong style="font-size: 22px;">About me</strong></p>
+<p id="-about-me">
+  <big><big><strong>About me</strong></big></big>
+</p>
 <p style="display: none;"><picture><img alt="Night Coding" src="" align="right"></picture></p>
 <p>
   I'm a Software Engineer with a passion for creating innovative solutions and automating processes. <br/>
@@ -16,7 +18,9 @@
 
 <p><br><br></p>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
-<p id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b style="font-size: 22px;"> Skills</b></p>
+<p id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25">
+<big><big><strong> Skills</strong></big></big>
+</p>
 <br>
 <p align="center">
 </p><ul>
@@ -90,7 +94,9 @@
 <hr>
 <br>
 
-<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
+<p id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <big><big><strong> Github Stats </strong></big></big>
+</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0trebeh&layout=compact&langs_count=6&theme=dark" alt="Lenguajes más usados de Heberto" />
 </p>
@@ -101,8 +107,8 @@
 <hr>
 <br>
 
-<p id="-lets-connect"><b style="font-size: 22px;"> Let’s Connect..!</b></p>
-
+<p id="-lets-connect"> <big><big><strong> Let’s Connect..!</strong></big></big></p>
+<br>
 <ul>
 <li>
 <a href="https://www.linkedin.com/in/heberto-urribarri-2223601a8/" target="_blank">
