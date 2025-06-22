@@ -15,8 +15,7 @@
   I have experience in software development, database design, and web development. <br/>
   I love to learn new technologies and apply them to real-world problems.
 </p>
-
-<p><br><br></p>
+<br>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
 <p id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25">
 <big><big><strong> Skills</strong></big></big>
@@ -102,7 +101,7 @@
 </p>
 
 </div>
-<br>
+
 <br>
 <hr>
 <br>
