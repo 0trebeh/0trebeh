@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=600&pause=100&size=30&color=cyan&center=true&vCenter=true&width=600&lines=Software+development+%3C%2F%3E;Freelance+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Engineer+%3C%2F%3E;Automation+Engineer+%E2%96%B6%EF%B8%8F;Database+design+%F0%9F%92%BE;Web+development+%F0%9F%8C%90" alt="Typing SVG">
 </p>
 <br>
-<h2 id="-about-me"><picture style="display: none;"><img alt="Night Coding" src=""></picture> <strong>About me</strong></h2>
+<h2><strong>About me</strong></h2>
 <p style="display: none;"><picture><img alt="Night Coding" src="" align="right"></picture></p>
 <p>
   I'm a Software Engineer with a passion for creating innovative solutions and automating processes. <br/>
