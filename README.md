@@ -1,10 +1,10 @@
-  <h1 align="center"><b>Hi , I'm Heberto Urribarri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"><b style="font-size: 32px;">Hi , I'm Heberto Urribarri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=600&pause=100&size=30&color=cyan&center=true&vCenter=true&width=600&lines=Software+development+%3C%2F%3E;Freelance+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Engineer+%3C%2F%3E;Automation+Engineer+%E2%96%B6%EF%B8%8F;Database+design+%F0%9F%92%BE;Web+development+%F0%9F%8C%90" alt="Typing SVG">
 </p>
 <br>
-<h2><strong>About me</strong></h2>
+<p id="-about-me"><picture style="display: none;"><img alt="Night Coding" src=""></picture> <strong style="font-size: 22px;">About me</strong></p>
 <p style="display: none;"><picture><img alt="Night Coding" src="" align="right"></picture></p>
 <p>
   I'm a Software Engineer with a passion for creating innovative solutions and automating processes. <br/>
@@ -14,7 +14,7 @@
 
 <p><br><br></p>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
-<h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
+<p id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b style="font-size: 22px;"> Skills</b></p>
 <br>
 <p align="center">
 </p><ul>
@@ -83,8 +83,7 @@
 </p>
 </li>
 </ul>
-<p></p>
-<br>
+
 <br>
 <hr>
 <br>
@@ -97,13 +96,11 @@
 </div>
 <br>
 <br>
-<br>
 <hr>
 <br>
-<br>
-<h2 id="-lets-connect"><b> Let’s Connect..!</b></h2>
-<br>
-<div align="left">
+
+<p id="-lets-connect"><b style="font-size: 22px;"> Let’s Connect..!</b></p>
+
 <ul>
 <li>
 <a href="https://www.linkedin.com/in/heberto-urribarri-2223601a8/" target="_blank">
