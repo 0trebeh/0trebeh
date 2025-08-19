@@ -9,7 +9,6 @@
 <p id="-about-me">
   <strong>About me</strong>
 </p>
-<p style="display: none;"><picture><img alt="Night Coding" src="" align="right"></picture></p>
 <p>
   I'm a Software Engineer with a passion for creating innovative solutions and automating processes. <br/>
   I have experience in software development, database design, and web development. <br/>
