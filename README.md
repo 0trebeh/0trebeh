@@ -1,128 +1,127 @@
-<p align="center">
-  <strong> Hi , I'm Heberto Urribarri </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
-<!--  -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=600&pause=100&size=30&color=cyan&center=true&vCenter=true&width=600&lines=Software+development+%3C%2F%3E;Freelance+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Engineer+%3C%2F%3E;Automation+Engineer+%E2%96%B6%EF%B8%8F;Database+design+%F0%9F%92%BE;Web+development+%F0%9F%8C%90" alt="Typing SVG">
-</p>
-<br>
-<p id="-about-me">
-  <strong>About me</strong>
-</p>
-<p>
-  I'm a Software Engineer with a passion for creating innovative solutions and automating processes. <br/>
-  I have experience in software development, database design, and web development. <br/>
-  I love to learn new technologies and apply them to real-world problems.
-</p>
-<br>
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
-<p id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25">
-<strong> Skills</strong>
-<br>
-</p>
-<p align="center">
-</p><ul>
-<li>
-<p><strong>Languages</strong>:</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-</p>
-</li>
-</ul>
-<br>   
-<ul>
-<li>
-<p><strong>Front-End Development</strong>:</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/CanvasJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="CanvasJS">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-</li>
-</ul>
-<br>
-<ul>
-<li>
-<p><strong>Softwares and Tools</strong>:</p>
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate">
-  <img src="https://img.shields.io/badge/Office%20Scripts-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office Scripts">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-</li>
-</ul>
-<br>
-<ul>
-<li>
-<p><strong>Extras</strong>:</p>
-<p>
-  <img src="https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" alt="ETL">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-  <img src="https://img.shields.io/badge/BarTender-4B8BBE?style=for-the-badge&logo=platformdotsh&logoColor=white" alt="BarTender">
-</p>
-</li>
-</ul>
+<div align="center">
 
-<br>
-<hr>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Heberto%20Urribarri&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Automation&descSize=18&descAlignY=58" width="100%" alt="Heberto Urribarri"/>
 
-<p id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <strong> Github Stats </strong>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0trebeh&layout=compact&langs_count=6&theme=dark" alt="Lenguajes más usados de Heberto" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=I+turn+manual+processes+into+software.;Full+Stack+%E2%80%94+React+%E2%80%A2+Node.js+%E2%80%A2+ASP.NET+Core;ETL%2C+Automation+%26+AI+Agents;6%2B+years+shipping+to+production" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/heberto-urribarri-2223601a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:hebertourribarri2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Orlando%2C%20FL-1f2937?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Orlando, FL"/>
+<img src="https://img.shields.io/badge/Open%20to%20work-16a34a?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
 
 </div>
 
-<br>
-<hr>
-<br>
+---
 
-<p id="-lets-connect"><strong> Let’s Connect..!</strong></p>
-<br>
-<ul>
-<li>
-<a href="https://www.linkedin.com/in/heberto-urribarri-2223601a8/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
-</a>
-</li>
-<br>
-<li>
-<a href="mailto:hebertourribarri2@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;">
-</a>
-</li>
-</ul>
+## 👨‍💻 About me
+
+**Computer Engineer with 6+ years of experience** building web, desktop and automation solutions for companies in the United States, Colombia and Venezuela — both in-house and as a freelancer.
+
+I specialize in the kind of software that pays for itself: **ETL pipelines, process automation and internal tools** that turn hours of manual work into minutes, alongside full stack products that real users rely on every day.
+
+```ts
+const heberto = {
+  role:        "Software Engineer",
+  focus:       ["Full Stack", "Automation", "Data / ETL", "AI Agents"],
+  stack:       ["TypeScript", "React", "Node.js", "C# / ASP.NET Core", "Python", "SQL"],
+  languages:   ["Spanish (native)", "English (B2+)"],
+  methodology: ["Scrum", "Extreme Programming"],
+  location:    "Orlando, FL 🇺🇸",
+};
+```
+
+---
+
+## 💼 Experience
+
+**Software Engineer** · *United Data Technologies* · 🇺🇸 · `2024 – 2025`
+- Designed an **ETL system** that extracts data from ConnectWise into SQL Server — processing went from **hours to minutes**.
+- Built automation flows with **Power Automate + Selenium**, including a scraping bot that cut administrative work by **85%** and a fully automated QC process.
+- Optimized and audited the company's **SQL Server** database for faster, more reliable queries.
+- Refactored the internal **Razor dashboard**, improving security and replacing third-party tools.
+- Shipped an **ASP.NET Core desktop app** for automated USB testing: **14 → 2 minutes** per device.
+
+**Full Stack Developer** · *Addin Technologies SAS* · 🇨🇴 Remote · `2023 – 2024`
+- Built a multi-user **content-sharing platform (B2C)** on the MERN stack, deployed to **1,000+ users**, with **+28% SEO** performance.
+- **Led a team of 4** to deliver a **veterinary booking platform (B2B)** — MVP in production in **1 month**.
+
+**Freelance Developer** · *Vymg S.A, Cubisystem C.A & private clients* · 🌎 Remote · `2020 – Present`
+- **AI agents**, automations, scripts, websites, MVPs and complete systems — including **Odoo Community** implementations.
+- End-to-end ownership: requirements gathering, budgeting, development and technical documentation.
+
+**Intern** · *Inverdata Software & Technology* · 🇻🇪 · `2021`
+- Built responsive pages with the **PERN** stack and Ant Design in a team of 6.
+
+---
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cs,html,css&theme=dark" alt="Languages"/>
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,dotnet,django&theme=dark" alt="Frameworks"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" alt="Databases"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" alt="SQL Server"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,heroku,postman&theme=dark" alt="Cloud and DevOps"/>
+
+**Automation, ERP & Tools**
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" alt="ETL"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+
 </div>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
+
+---
+
+## 🎓 Education & certifications
+
+- 🎓 **B.S. in Computer Engineering** — Universidad Rafael Urdaneta (URU), 2018 – 2022 · Member of CIIM (Mechatronics Research & Innovation Club)
+- 🛡️ **Ethical Hacker** · **Cybersecurity Essentials** — Cisco
+- 🐍 **Python 1 & 2** — Python Institute
+- 🗄️ **SQL and Relational Databases** — IBM
+- 🔄 **Scrum Foundation Professional** — CertiProf
+- 🌐 **EF SET English Certificate** — B2 Upper Intermediate
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=0trebeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0trebeh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something
+
+I'm open to **full-time roles, contract work and freelance projects** — especially where automation, data or a full stack product can make a measurable difference.
+
+<a href="https://www.linkedin.com/in/heberto-urribarri-2223601a8/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:hebertourribarri2@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt=""/>
+
+</div>
